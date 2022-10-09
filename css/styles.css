@@ -241,6 +241,10 @@ body {
 
 /* Переваги */
 
+.benefits {
+  padding-bottom: 0;
+}
+
 .benefits-list {
   display: flex;
   gap: 30px;
@@ -361,7 +365,7 @@ body {
   display: flex;
   gap: 8px;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
 }
 
 .portfolio-button {
